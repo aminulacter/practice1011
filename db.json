@@ -3,7 +3,7 @@ events:[ {
         "id": 1,
         "category": '',
         "title": '',
-        "description|: '',
+        "description": '',
         "location": '',
         "pets": 1,
         "extras": {
