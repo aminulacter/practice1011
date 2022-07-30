@@ -1,12 +1,12 @@
 
 events:[ {
         "id": 1,
-        "category": '',
-        "title": '',
-        "description": '',
-        "location": '',
+        "category": "animal welfare",
+        "title": "Frenz of bunz",
+        "description": " and an frenz",
+        "location": "zoom -stay Safe",
         "pets": 1,
         "extras": {
-          "catering": false,
-         "music": false
+          "catering": true,
+         "music": true
         }]
